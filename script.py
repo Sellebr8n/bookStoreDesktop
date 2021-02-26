@@ -14,4 +14,4 @@
 
 from tkinter import *
 
- window=Tk()
+ Window=Tk()
